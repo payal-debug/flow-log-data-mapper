@@ -27,7 +27,7 @@ Ensure you have the following installed on your system:
 
    Download the project from GitHub using the following command:
 
-   git clone https://github.com/asbhullar/flow-log-data-mapper.git
+   git clone  https://github.com/payal-debug/flow-log-data-mapper.git
 
 2. **Prepare Your Input Files**
 
